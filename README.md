@@ -1,4 +1,3 @@
-
 <!-- ===================== HERO BANNER ===================== -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Raj%20Ahire&fontSize=44&fontColor=ffffff&desc=AWS%20%7C%20DevOps%20Engineer%20%7C%20Cloud%20Automation&descAlignY=75&animation=fadeIn" />
@@ -20,13 +19,13 @@
 I’m **Raj Ahire**, an **AWS & DevOps Engineer (Fresher)** with strong hands-on experience in  
 **cloud infrastructure, CI/CD automation, and production-ready deployments**.
 
-I specialize in **Infrastructure as Code**, **AWS architecture**, and **end-to-end DevOps pipelines**.
+I focus on **Infrastructure as Code**, **AWS architecture**, and **end-to-end DevOps pipelines** that are scalable, reliable, and easy to maintain.
 
-- ☁️ AWS Cloud (EC2, VPC, RDS, IAM, S3)
-- 🏗️ Infrastructure as Code using Terraform
-- 🔁 CI/CD pipelines with Jenkins & GitHub
+- ☁️ AWS (EC2, VPC, RDS, IAM, S3, ALB)
+- 🏗️ Terraform (Infrastructure as Code)
+- 🔁 Jenkins CI/CD + GitHub Webhooks
 - 🐧 Linux (Ubuntu, Amazon Linux)
-- 🎯 Goal: Build scalable, reliable, automated systems
+- 🎯 Goal: Build systems that scale with confidence
 
 ---
 
@@ -35,29 +34,29 @@ I specialize in **Infrastructure as Code**, **AWS architecture**, and **end-to-e
 > **“If it’s manual, it’s broken.”**
 
 - Automate everything that can be automated  
-- Infrastructure should be **repeatable, versioned, and auditable**  
-- CI/CD pipelines must be **simple, reliable, and observable**  
-- Systems should be **secure by default** and **easy to scale**
+- Infrastructure should be repeatable & version-controlled  
+- CI/CD pipelines must be simple, reliable, and observable  
+- Build once. Deploy many times. Scale safely.
 
 ---
 
-## 🧩 Skills & Tech Stack (Animated Icons)
+## 🧩 Skills & Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,terraform,jenkins,linux,git,github,docker,bash,python,java&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=aws,terraform,jenkins,linux,git,github,bash,python,java&theme=dark" />
 </p>
 
 ---
 
-## 🛠️ Core Competencies (ATS-Optimized)
+## 🛠️ Core Competencies (ATS Optimized)
 
 ```text
 AWS Cloud Infrastructure
 DevOps Engineering
-CI/CD Pipeline Automation
 Terraform Infrastructure as Code
+CI/CD Pipeline Automation
 Linux System Administration
-Cloud Security & Networking
+Cloud Networking & Security
 Application Deployment
 Monitoring & Logging
 High Availability Architecture
@@ -69,13 +68,13 @@ High Availability Architecture
 
 ### 🔹 3-Tier Architecture on AWS (Terraform)
 
-**Production-style cloud architecture using Infrastructure as Code**
+**Production-style AWS architecture fully automated using Terraform**
 
 * Custom VPC with public & private subnets
 * EC2 application layer
 * RDS (MySQL) database layer
 * NAT Gateway & Security Groups
-* Fully automated with Terraform
+* Reproducible Infrastructure as Code
 
 🔗 **GitHub Repo:**
 [https://github.com/RajAhire-1/3-Tier-Architecture-on-AWS-using-Terraform](https://github.com/RajAhire-1/3-Tier-Architecture-on-AWS-using-Terraform)
@@ -103,21 +102,11 @@ High Availability Architecture
 
 ---
 
-## 🧪 Architecture Preview
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/RajAhire-1/3-Tier-Architecture-on-AWS-using-Terraform/main/img/architecture.png" width="80%" />
-</p>
-
-> *(Diagram from my Terraform-based AWS 3-Tier Architecture project)*
-
----
-
-## 📊 GitHub Stats (Clean & Professional)
+## 📊 GitHub Stats & Streak
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RajAhire-1&show_icons=true&hide_border=true&theme=github_dark&count_private=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RajAhire-1&hide_border=true&theme=github-dark-blue" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RajAhire-1&theme=github&hide_border=true" height="160"/>
 </p>
 
 ---
@@ -125,22 +114,22 @@ High Availability Architecture
 ## 📈 Currently Improving
 
 * Terraform modules & remote backend
-* AWS architecture optimization
+* AWS architecture best practices
 * Monitoring & alerting strategies
-* Real-world DevOps use cases
+* Real-world DevOps scenarios
 
 ---
 
 ## 📫 Connect With Me
 
-* 📧 Email: **[rajahire326@gmail.com](mailto:rajahire326@gmail.com)**
+* 💼 LinkedIn: [https://www.linkedin.com/in/raj-ahire](https://www.linkedin.com/in/raj-ahire)
 * 📝 Medium: [https://medium.com/@rajahire326](https://medium.com/@rajahire326)
-* 💼 LinkedIn: *(add your LinkedIn URL)*
+* 📧 Email: [rajahire326@gmail.com](mailto:rajahire326@gmail.com)
 
 ---
 
 <p align="center">
-  <b>“Build once. Automate forever.”</b>
+  <b>“Automate infrastructure. Deliver with confidence.”</b>
 </p>
 
 <p align="center">
@@ -149,6 +138,5 @@ High Availability Architecture
 ```
 
 ---
-
 
 
