@@ -1,6 +1,6 @@
-<!-- ===================== HERO BANNER ===================== -->
+<!-- ===================== HERO ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Raj%20Ahire&fontSize=44&fontColor=ffffff&desc=AWS%20%7C%20DevOps%20Engineer%20%7C%20Cloud%20Automation&descAlignY=75&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Raj%20Ahire&fontSize=46&fontColor=ffffff&desc=AWS%20%7C%20DevOps%20Engineer%20%7C%20Cloud%20Infrastructure%20Automation&descAlignY=75&animation=fadeIn" />
 </p>
 
 <!-- ===================== BADGES ===================== -->
@@ -17,35 +17,50 @@
 
 ## 👋 About Me
 
-I’m **Raj Ahire**, an **Entry-Level AWS & DevOps Engineer** with strong **hands-on experience** in designing, automating, and deploying **cloud-native and production-style infrastructure**.
+I’m **Raj Ahire**, an **Entry-Level AWS & DevOps Engineer** with strong hands-on experience in building, automating, and operating **production-style cloud infrastructure**.
 
-I focus on **Infrastructure as Code**, **CI/CD automation**, and **real-world DevOps workflows** — not just tools, but how systems actually run in production.
-
-- ☁️ AWS: EC2, VPC, IAM, RDS, S3, ALB, ECR  
-- 🏗️ Infrastructure as Code: Terraform  
-- 🔁 Automation & CI/CD: Jenkins, GitHub Actions, Ansible  
-- 🐳 Containers & Orchestration: Docker, Kubernetes (kubeadm)  
-- 🐧 Linux: Ubuntu, Amazon Linux  
-- 🎯 Goal: Build reliable, scalable, and automated cloud systems
+💡 I design, automate, and operate cloud systems using **AWS, Terraform, Ansible, Docker, Kubernetes, and CI/CD pipelines**, with a strong focus on **reliability, repeatability, and real-world DevOps practices**.
 
 ---
 
 ## 🧠 DevOps Mindset
 
-> **“If it’s manual, it’s broken.”**
+> **If it’s manual, it’s broken.**
 
-- Everything should be automated and reproducible  
-- Infrastructure must be version-controlled  
-- CI/CD pipelines should be simple, observable, and reliable  
-- Build once. Deploy many times. Scale safely.
+- Infrastructure must be **automated & version-controlled**
+- CI/CD pipelines should be **simple, reliable, and observable**
+- Systems should scale safely without rework
+- Build once. Deploy many times.
 
 ---
 
-## 🧩 Skills & Tech Stack
+## 🧑‍💻 What I Do as a DevOps Engineer
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,terraform,ansible,jenkins,githubactions,docker,kubernetes,linux,git,bash,python&theme=dark" />
-</p>
+- Design AWS architectures following real production patterns  
+- Automate infrastructure using **Terraform** and **Ansible**  
+- Build CI/CD pipelines with **Jenkins** and **GitHub Actions**  
+- Containerize applications and deploy on **Kubernetes (kubeadm)**  
+- Debug deployment, networking, and image-pull issues  
+- Focus on scalability, security, and repeatability  
+
+---
+
+## 🧰 Technology Stack
+
+**Cloud & Infrastructure**  
+AWS · Terraform  
+
+**Automation & CI/CD**  
+Ansible · Jenkins · GitHub Actions  
+
+**Containers & Orchestration**  
+Docker · Kubernetes (kubeadm)  
+
+**OS & Scripting**  
+Linux (Ubuntu, Amazon Linux) · Bash · Python  
+
+**Web & Databases**  
+Nginx · MySQL · MariaDB  
 
 ---
 
@@ -66,90 +81,81 @@ High Availability Architecture
 
 ---
 
-## 🚀 Featured DevOps Projects
+## 🚀 Pinned DevOps Projects (Top 6)
 
-### 🔹 Cloud-Native E-Commerce DevOps Platform (AWS + GitHub Actions + Kubernetes)
+### 🔥 Cloud-Native E-Commerce DevOps Platform
 
-**End-to-end DevOps implementation of microservices architecture**
+**AWS · Docker · GitHub Actions · ECR · Kubernetes (kubeadm)**
 
-* GitHub Actions CI/CD pipelines
-* Docker image build & push to AWS ECR
-* Self-managed Kubernetes cluster (kubeadm)
-* NodePort service exposure
+* End-to-end CI/CD pipelines
+* Self-managed Kubernetes cluster
 * Real-world troubleshooting (ImagePullBackOff, ECR auth)
 
-🔗 **Repo:**
-[https://github.com/RajAhire-1/cloud-native-ecommerce-devops](https://github.com/RajAhire-1/cloud-native-ecommerce-devops)
+🔗 [https://github.com/RajAhire-1/cloud-native-ecommerce-devops](https://github.com/RajAhire-1/cloud-native-ecommerce-devops)
 
 ---
 
-### 🔹 3-Tier Architecture on AWS using Terraform
+### ☁️ 3-Tier Architecture on AWS using Terraform
 
-**Production-style infrastructure fully automated with IaC**
+* Custom VPC, public & private subnets
+* EC2 application tier, RDS database tier
+* Fully reproducible Infrastructure as Code
 
-* Custom VPC with public & private subnets
-* EC2 application tier
-* RDS (MySQL) database tier
-* NAT Gateway & Security Groups
-* Fully reproducible Terraform setup
-
-🔗 **Repo:**
-[https://github.com/RajAhire-1/3-Tier-Architecture-on-AWS-using-Terraform](https://github.com/RajAhire-1/3-Tier-Architecture-on-AWS-using-Terraform)
-
-📝 **Blog:**
-[https://medium.com/@rajahire326/understanding-3-tier-architecture-on-aws-using-terraform-4fd1c5da42c2](https://medium.com/@rajahire326/understanding-3-tier-architecture-on-aws-using-terraform-4fd1c5da42c2)
+🔗 [https://github.com/RajAhire-1/3-Tier-Architecture-on-AWS-using-Terraform](https://github.com/RajAhire-1/3-Tier-Architecture-on-AWS-using-Terraform)
 
 ---
 
-### 🔹 AWS 3-Tier Architecture Provisioned with Ansible
+### 🛠️ AWS 3-Tier Architecture Automated with Ansible
 
 * Proxy → Application → Database architecture
 * Nginx, PHP-FPM, MariaDB
 * Zero manual configuration
-* Complete automation via Ansible playbooks
 
-🔗 **Repo:**
-[https://github.com/RajAhire-1/AWS-3-Tier-Architecture-Provisioned-and-Configured-with-Ansible](https://github.com/RajAhire-1/AWS-3-Tier-Architecture-Provisioned-and-Configured-with-Ansible)
+🔗 [https://github.com/RajAhire-1/AWS-3-Tier-Architecture-Provisioned-and-Configured-with-Ansible](https://github.com/RajAhire-1/AWS-3-Tier-Architecture-Provisioned-and-Configured-with-Ansible)
 
 ---
 
-### 🔹 Nginx Deployment using Ansible Handlers
+### 🔁 Nginx Deployment using Ansible Handlers
 
-* Automated Nginx installation on AWS EC2
-* Custom port configuration
-* Event-driven service reload using handlers
-* Idempotent, production-ready automation
+* Event-driven service reloads
+* Idempotent configuration management
+* Production-ready automation pattern
 
-🔗 **Repo:**
-[https://github.com/RajAhire-1/Nginx-Deployment-Using-Ansible-Handlers-on-AWS-EC2](https://github.com/RajAhire-1/Nginx-Deployment-Using-Ansible-Handlers-on-AWS-EC2)
+🔗 [https://github.com/RajAhire-1/Nginx-Deployment-Using-Ansible-Handlers-on-AWS-EC2](https://github.com/RajAhire-1/Nginx-Deployment-Using-Ansible-Handlers-on-AWS-EC2)
 
 ---
 
-### 🔹 Docker Custom Bridge Network – Container Communication
+### 🐳 Docker Custom Bridge Network
 
-* Custom Docker bridge network
-* Multi-container communication
+* Custom Docker networking
+* Container-to-container communication
 * Network inspection & debugging
-* Practical Docker networking fundamentals
 
-🔗 **Repo:**
-[https://github.com/RajAhire-1/Docker-Custom-Bridge-Network](https://github.com/RajAhire-1/Docker-Custom-Bridge-Network)
+🔗 [https://github.com/RajAhire-1/Docker-Custom-Bridge-Network](https://github.com/RajAhire-1/Docker-Custom-Bridge-Network)
 
 ---
 
-### 🔹 WordPress Containerization using Docker
+### 🌐 WordPress Containerization using Docker
 
 * WordPress + MySQL containers
 * Environment-based configuration
-* Port mapping & container linking
-* End-to-end deployment validation
+* Real-world application deployment
 
-🔗 **Repo:**
-[https://github.com/RajAhire-1/WordPress-Containerization-Using-Docker](https://github.com/RajAhire-1/WordPress-Containerization-Using-Docker)
+🔗 [https://github.com/RajAhire-1/WordPress-Containerization-Using-Docker](https://github.com/RajAhire-1/WordPress-Containerization-Using-Docker)
 
 ---
 
-## 📊 GitHub Stats
+## ✅ DevOps Proof of Work
+
+* Built multiple **3-Tier architectures** using Terraform and Ansible
+* Implemented **CI/CD pipelines** from GitHub to Kubernetes
+* Worked with **AWS ECR authentication** and image-pull issues
+* Deployed systems without managed services to learn fundamentals
+* Practiced real debugging, not tutorial-only setups
+
+---
+
+## 📊 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RajAhire-1&show_icons=true&hide_border=true&theme=github_dark&count_private=true" height="160"/>
@@ -158,12 +164,12 @@ High Availability Architecture
 
 ---
 
-## 📈 Currently Improving
+## 🛣️ Learning Roadmap (2026)
 
-* Advanced Terraform modules & remote backend
-* Kubernetes networking & security
-* Monitoring & alerting (Prometheus / CloudWatch)
-* Production-grade DevOps scenarios
+* Terraform modules & remote backend
+* Kubernetes security & RBAC
+* Monitoring with Prometheus & CloudWatch
+* System design for DevOps interviews
 
 ---
 
