@@ -1,8 +1,9 @@
+<!-- ===================== HERO ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Raj%20Ahire&fontSize=46&fontColor=ffffff&desc=AWS%20%7C%20DevOps%20Engineer%20%7C%20Cloud%20Infrastructure%20Automation&descAlignY=75&animation=fadeIn" />
+</p>
+
 <div align="center">
-
-# 👨‍💻 Raj Ahire
-
-### AWS & DevOps Engineer | Cloud Infrastructure Specialist
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E8BC0&center=true&vCenter=true&width=600&lines=Building+Cloud+Infrastructure+%E2%98%81%EF%B8%8F;Automating+with+Terraform+%26+Ansible+%F0%9F%9A%80;Orchestrating+with+Kubernetes+%E2%98%B8%EF%B8%8F;CI%2FCD+Pipeline+Architect+%F0%9F%94%A7;DevOps+%7C+AWS+%7C+Docker+%7C+Jenkins" alt="Typing SVG" /></a>
